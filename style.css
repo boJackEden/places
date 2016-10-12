@@ -1,0 +1,11 @@
+.container{
+  border: 1px solid black;
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+input{
+  display: block;
+  margin: auto;
+}

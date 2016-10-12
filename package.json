@@ -1,0 +1,11 @@
+{
+  "name": "zenefits_places",
+  "version": "1.0.0",
+  "description": "Code challenge for zenefits",
+  "main": "index.js",
+  "scripts": {
+    "test": "test zen"
+  },
+  "author": "bojackeden",
+  "license": "MIT"
+}
